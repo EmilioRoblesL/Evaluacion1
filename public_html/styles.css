@@ -1,0 +1,75 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 04-10-2023, 13:22:33
+    Author     : ejrob
+*/
+header{
+    background-color:#cc0033; text-align: center; padding: 10px;
+     width: -webkit-fill-available;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    background-color: #cccccc;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+#caja{
+   width: 600px; 
+   padding: 150px;
+}
+
+section{
+    background-color: #f2f2f2;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+h1{
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+h2{
+    color: #333300;
+    font-family: Arial, sans-serif;
+}
+
+h3{
+    color: #cc0033;
+    font-family: Arial, sans-serif;
+}
+
+ul{
+    list-style-type: circle;
+    margin: 10px 0;
+    padding-left: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: #3498db;
+}
+
+a:hover {
+    color: #cc0033;
+}
+
+footer{
+    background-color: #cc0033;
+    text-align: center;
+    padding: 10px;
+    color: white;
+    width: -webkit-fill-available;
+}
+
